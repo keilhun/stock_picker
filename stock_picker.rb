@@ -1,3 +1,9 @@
+=begin
+
+This method takes an array of stock prices by day, and chooses the best days to buy and sell
+
+=end
+
 def stock_picker(prices)
   max_profit = 0
   indx1 = 0
